@@ -8,7 +8,7 @@ subtitle: ''
 description: ''
 keywords:
 author: Regan
-language: en
+language: zh-CN
 timezone: ''
 
 # URL
@@ -29,6 +29,8 @@ category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
+
+index_img: /img/index_img.gif
 
 # Writing
 new_post_name: :title.md # File name of new posts
